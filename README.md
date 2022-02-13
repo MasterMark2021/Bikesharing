@@ -30,7 +30,7 @@ ELSEIF [Gender] = '2' then 'FEMALE' END
 **Reults and Outcome**
 Click on the below to view my complete presentation and analysis!
 https://public.tableau.com/app/profile/mark.okoli/viz/NYCCitibikeStory_16447626534450/NYCCitibikeStory?publish=yes
-Also refer to the image folders for more information and analysis.
+Also refer to the image folders for more information and analysis: https://github.com/MasterMark2021/Bikesharing/tree/main/Output%20Images
 The analysis begins with general information, which contains a map of the top starting locations for rides in NYC and a pie chart showing the gender distribution of riders. This dashboard is intended to provide a basic overview of the data.
 Total user checkout times are then shown, which is then followed by the same graph filtered by gender. This line graph showcased the large disparity in Male and Female ridership.
 Total trips by weekday are visualized as a heatmap. The majority of Monday-Friday trips are 7 AM - 9 AM and 5 PM - 7 PM. When filtering this heatmap by Gender, it is again found that Male ridership far outpaces Female ridership. However, the peak riding hours across all genders are similar.
